@@ -3,8 +3,7 @@
 Student: Joni Kumar Meghwar
 NIM: 240411100234
 Location: Bangkalan, Madura, East Java, Indonesia
-
-This version uses NO Google Earth Engine.
+ 
 
 Workflow:
 Copernicus Browser -> Sentinel-2 L2A TIFFs -> local Python/Rasterio -> Random Forest -> accuracy/Kappa/confusion matrix -> final GeoTIFF.
